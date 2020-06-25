@@ -4,5 +4,3 @@ holaaaa perro
 ssss
 commitx1
 commitx1-1
-commitx2
-commitx2-1
